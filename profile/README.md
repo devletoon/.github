@@ -24,7 +24,7 @@
 ## Get involved
 
 Currently, communities of young learners are building interesting services together, and there are excellent opportunities for a 'good first number' if you are looking to get involved.
-
+  - Many technologies like the one below are to be discovered with lights in the eyes.
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
